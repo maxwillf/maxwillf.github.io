@@ -303,25 +303,25 @@ widgets:
         # Feedburner ID
         feedburner_id: ''
     # Google AdSense unit configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: adsense
+    #    position: left
+     #   type: adsense
         # AdSense client ID
-        client_id: ''
+     #   client_id: ''
         # AdSense AD unit ID
-        slot_id: ''
+     #   slot_id: ''
     # Follow.it email subscription widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: followit
+     #   position: left
+      #  type: followit
         # Hint text under the email input
-        description: 
+      #  description: 
         # Subscription form action URL
-        action_url: ''
+     #   action_url: ''
         # Feed claiming verification code
-        verification_code: ''
+     #   verification_code: ''
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
@@ -331,24 +331,24 @@ plugins:
     back_to_top: true
     # Baidu Analytics plugin settings
     # https://tongji.baidu.com
-    baidu_analytics:
+    #baidu_analytics:
         # Baidu Analytics tracking ID
-        tracking_id: 
+    #    tracking_id: 
     # Bing Webmaster Tools plugin settings
     # https://www.bing.com/toolbox/webmaster/
-    bing_webmaster:
+    #bing_webmaster:
         # Bing Webmaster Tools tracking ID in the <meta> tag
-        tracking_id: 
+    #    tracking_id: 
     # BuSuanZi site/page view counter
     # https://busuanzi.ibruce.info
     busuanzi: false
     # CNZZ statistics
     # https://www.umeng.com/web
-    cnzz:
+    #cnzz:
         # CNZZ tracker id
-        id: 
+     #   id: 
         # CNZZ website id
-        web_id: 
+     #   web_id: 
     # Alerting users about the use of cookies
     # https://www.osano.com/cookieconsent/
     cookie_consent:
@@ -396,9 +396,9 @@ plugins:
         security: 
     # Twitter conversion tracking plugin settings
     # https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html
-    twitter_conversion_tracking:
+    #twitter_conversion_tracking:
         # Twitter Pixel ID
-        pixel_id: 
+     #   pixel_id: 
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
